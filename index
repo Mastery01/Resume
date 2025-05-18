@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Amanda F. Bolden - Resume</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background: #f4f4f4;
+      }
+      header {
+        background: #333;
+        color: #fff;
+        padding: 20px;
+        text-align: center;
+      }
+      section {
+        background: #fff;
+        margin: 20px 0;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h1, h2, h3 {
+        margin: 0 0 10px;
+        color: #333;
+      }
+      .subsection {
+        margin-bottom: 15px;
+      }
+      .job {
+        margin-bottom: 10px;
+      }
+      .job-title {
+        font-weight: bold;
+      }
+      .job-duration {
+        font-style: italic;
+        color: #555;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      .skills li {
+        display: inline-block;
+        margin: 5px 10px 5px 0;
+        background: #eee;
+        padding: 5px 10px;
+        border-radius: 5px;
+      }
+      footer {
+        text-align: center;
+        margin-top: 40px;
+        font-size: 0.9em;
+        color: #777;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Amanda F. Bolden</h1>
+      <p>Clearance: TS/SCI and Polygraph</p>
+    </header>
+
+    <section>
+      <h2>Education</h2>
+      <p><strong>BS, Computer Information Systems</strong> – University of Dayton, May 2023</p>
+    </section>
+
+    <section>
+      <h2>Certifications</h2>
+      <p>
+        <strong>Udemy: SDET Java: Automation Testing from Scratch</strong>
+        – January 2024
+      </p>
+    </section>
+
+    <section>
+      <h2>Work Experience</h2>
+      <div class="job">
+        <p class="job-title">Systems Engineer, Miklos Systems, Inc. (Fairfax, VA)</p>
+        <p class="job-duration">August 2024 to Present</p>
+        <p>Accepted a contingent offer with Miklos Systems, Inc.</p>
+      </div>
+      <div class="job">
+        <p class="job-title">Quality Engineer, TD Bank (Fort Lauderdale, FL)</p>
+        <p class="job-duration">June 2023 to Present</p>
+        <p>
+          Involved in hands-on testing activities, test creation, and automation framework enhancement for the Credit Card product group.
+        </p>
+      </div>
+      <div class="job">
+        <p class="job-title">Rise Program, Capgemini (Chicago, IL)</p>
+        <p class="job-duration">August 2022</p>
+        <p>
+          Participated in an intensive leadership program that exposed students to the realities of technology consulting in a global firm.
+        </p>
+      </div>
+      <div class="job">
+        <p class="job-title">Computer Science Department Ambassador, University of Dayton (Dayton, OH)</p>
+        <p class="job-duration">August 2021 to May 2022</p>
+        <p>
+          Served as a Teaching Assistant and Tour Guide, helping incoming students and prospective candidates learn more about the department.
+        </p>
+      </div>
+      <div class="job">
+        <p class="job-title">Intern, Department of Justice (Chicago, IL)</p>
+        <p class="job-duration">June 2021 to May 2023</p>
+        <p>
+          Worked with the Criminal Cyber Crimes squad and computer scientists to research ransomware, develop reports, and assist with case work.
+        </p>
+      </div>
+      <div class="job">
+        <p class="job-title">Summer Immersion Program Teaching Assistant, Girls Who Code (Virtual/Remote)</p>
+        <p class="job-duration">June 2020 to August 2020</p>
+        <p>
+          Collaborated with instructors to mentor high school girls learning HTML, CSS, and JavaScript.
+        </p>
+      </div>
+      <div class="job">
+        <p class="job-title">Curriculum Designer, Dayton Regional STEM Center (Dayton, OH)</p>
+        <p class="job-duration">September 2019 to May 2023</p>
+        <p>
+          Designed and delivered web design and programming curricula aimed at providing STEM education to underrepresented high school girls.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Technical Summary</h2>
+      <div class="subsection skills">
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Java</li>
+          <li>JavaScript</li>
+          <li>Python</li>
+          <li>GitHub</li>
+          <li>React</li>
+          <li>SQL</li>
+          <li>PostgreSQL</li>
+          <li>PowerShell</li>
+          <li>Power Apps</li>
+          <li>Power BI</li>
+          <li>Microsoft Suite</li>
+          <li>SharePoint</li>
+          <li>Linux</li>
+          <li>JIRA</li>
+          <li>Atlassian</li>
+          <li>Confluence</li>
+          <li>Bitbucket</li>
+          <li>Selenium</li>
+          <li>Asana</li>
+          <li>Trello</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Related Training</h2>
+      <p>
+        <strong>TWITTER Battle of the Camps</strong> – August 2020<br />
+        Developed a website and bot that flagged protest images with a warning when a face was detected. Won first place.
+      </p>
+      <p>
+        <strong>TWITTER Feature Challenge</strong> – May 2020<br />
+        Participated in a one-week program guided by Twitter engineers to create an innovative feature for tweet details.
+      </p>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <div class="subsection">
+        <p>
+          <strong>Senior Capstone, University of Dayton</strong> (August 2022 – May 2023)<br />
+          Led a team to develop a web server on a Raspberry Pi that acted as a controller for an iRoomba Create 2. Collaborated using GitHub Codespaces and Visual Studio Code.
+        </p>
+      </div>
+      <div class="subsection">
+        <p>
+          <strong>CPS 592 Mobile Persuasive, University of Dayton</strong> (January 2023 – May 2023)<br />
+          Designed a cross-platform mobile application using React Native, centralizing information for the University of Dayton Multi Ethnic Education and Engagement Center.
+        </p>
+      </div>
+      <div class="subsection">
+        <p>
+          <strong>CPS 420 Software Engineering, University of Dayton</strong> (June 2022 – July 2022)<br />
+          Developed an extensive concept for a school bus information slip, complete with detailed use cases, system diagrams, and comprehensive technical documentation.
+        </p>
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Amanda F. Bolden</p>
+    </footer>
+  </body>
+</html>
